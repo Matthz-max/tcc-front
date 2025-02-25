@@ -1,0 +1,11 @@
+@import url('global.css');
+@import url('header.css');
+
+#container{
+    
+    width: 1280px, 100%;
+    height: auto;
+    
+}
+
+
