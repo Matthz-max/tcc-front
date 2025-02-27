@@ -1,0 +1,13 @@
+#main-principal{
+    width: 100%;
+    height: auto;
+}
+#main-noticias-land{
+    width: 90%;
+    height: auto;
+    background: red;
+}
+#land-1{
+    display: flex;
+   
+}
