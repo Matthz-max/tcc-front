@@ -1,0 +1,1212 @@
+#main-principal{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    align-items: center;
+ 
+}
+#div-traco-main{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+ 
+}
+#traco-main{
+       width: 83%;
+       height: 3px;
+        background: linear-gradient(#FF6A00 0%, #FFA05B 100%);
+}
+
+/*h1-and-modal*/
+#selecoes-modal{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+#h1-modal-noticias{
+    font-family: "Inter", serif;
+    font-size: 48px;
+    font-style: Regular;
+    line-height:auto ;
+    color: #000;
+}
+#button-modal{
+    border: none;
+    background: none;
+}
+#button-modal:hover{
+  transform: scale(1.10);
+  transition: .6s;
+  cursor: pointer;
+}
+
+/*h1-and-modal*/
+
+
+/*////////////////////////////////////////*/
+
+
+/*div-Conteudo postado*/
+
+
+#div-conteudos-postados{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: auto;
+    margin-top: 50px;
+    align-items: start;
+     align-content: space-between;
+}
+
+/*post-1*/
+#post-1{
+    display: flex;
+    gap: 30px;
+}
+#div-location-post-1{
+    display: flex;
+    gap: 5px;
+}
+#left-post-1{
+    display: flex;
+    justify-content: center;
+}
+#right-post-1{
+display: flex;
+align-items: start;
+flex-direction: column;
+justify-content: space-between;
+ 
+ 
+}
+#h1-post-1{
+    font-family: "Inter", serif;
+    font-size: 30px;
+    font-style: bold;
+    line-height:auto ;
+    color: #FF8025;
+}
+#p-post-1{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #000;
+}
+#second-p-post-1{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #555555;
+}
+/*post-1*/
+
+/*///////////////////////*/
+
+/*post-2*/
+
+ 
+#post-2{
+    display: flex;
+    gap: 30px;
+}
+#div-location-post-2{
+    display: flex;
+    gap: 5px;
+}
+#left-post-2{
+    display: flex;
+    justify-content: center;
+}
+#right-post-2{
+display: flex;
+align-items: start;
+flex-direction: column;
+justify-content: space-between;
+ 
+ 
+}
+#h1-post-2{
+    font-family: "Inter", serif;
+    font-size: 30px;
+    font-style: bold;
+    line-height:auto ;
+    color: #FF8025;
+}
+#p-post-2{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #000;
+}
+#second-p-post-2{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #555555;
+}
+ 
+/*post-2*/
+
+
+/*///////////////////////*/
+
+
+/*post-3*/
+
+ 
+#post-3{
+    display: flex;
+    gap: 30px;
+}
+#div-location-post-3{
+    display: flex;
+    gap: 5px;
+}
+#left-post-3{
+    display: flex;
+    justify-content: center;
+}
+#right-post-3{
+display: flex;
+align-items: start;
+flex-direction: column;
+justify-content: space-between;
+ 
+ 
+}
+#h1-post-3{
+    font-family: "Inter", serif;
+    font-size: 30px;
+    font-style: bold;
+    line-height:auto ;
+    color: #FF8025;
+}
+#p-post-3{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #000;
+}
+#second-p-post-3{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #555555;
+}
+
+
+/*post-3*/
+/*///////////////////////*/
+
+
+/*post-4*/
+
+#post-4{
+    display: flex;
+    gap: 30px;
+}
+#div-location-post-4{
+    display: flex;
+    gap: 5px;
+}
+#left-post-4{
+    display: flex;
+    justify-content: center;
+}
+#right-post-4{
+display: flex;
+align-items: start;
+flex-direction: column;
+justify-content: space-between;
+ 
+ 
+}
+#h1-post-4{
+    font-family: "Inter", serif;
+    font-size: 30px;
+    font-style: bold;
+    line-height:auto ;
+    color: #FF8025;
+}
+#p-post-4{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #000;
+}
+#second-p-post-4{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #555555;
+}
+/*post-4*/
+/*///////////////////////*/
+ 
+/*post-5*/
+
+#post-5{
+    display: flex;
+    gap: 30px;
+}
+#div-location-post-5{
+    display: flex;
+    gap: 5px;
+}
+#left-post-5{
+    display: flex;
+    justify-content: center;
+}
+#right-post-5{
+display: flex;
+align-items: start;
+flex-direction: column;
+justify-content: space-between;
+ 
+ 
+}
+#h1-post-5{
+    font-family: "Inter", serif;
+    font-size: 30px;
+    font-style: bold;
+    line-height:auto ;
+    color: #FF8025;
+}
+#p-post-5{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #000;
+}
+#second-p-post-5{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #555555;
+}
+/*post-5*/
+/*///////////////////////*/
+/*///////////////////////*/
+
+
+/*post-6*/
+
+#post-6{
+    display: flex;
+    gap: 30px;
+}
+#div-location-post-6{
+    display: flex;
+    gap: 5px;
+}
+#left-post-6{
+    display: flex;
+    justify-content: center;
+}
+#right-post-6{
+display: flex;
+align-items: start;
+flex-direction: column;
+justify-content: space-between;
+ 
+ 
+}
+#h1-post-6{
+    font-family: "Inter", serif;
+    font-size: 30px;
+    font-style: bold;
+    line-height:auto ;
+    color: #FF8025;
+}
+#p-post-6{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #000;
+}
+#second-p-post-6{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #555555;
+}
+/*post-6*/
+/*///////////////////////*/
+/*///////////////////////*/
+
+
+/*post-7*/
+
+#post-7{
+    display: flex;
+    gap: 30px;
+}
+#div-location-post-7{
+    display: flex;
+    gap: 5px;
+}
+#left-post-7{
+    display: flex;
+    justify-content: center;
+}
+#right-post-7{
+display: flex;
+align-items: start;
+flex-direction: column;
+justify-content: space-between;
+ 
+ 
+}
+#h1-post-7{
+    font-family: "Inter", serif;
+    font-size: 30px;
+    font-style: bold;
+    line-height:auto ;
+    color: #FF8025;
+}
+#p-post-7{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #000;
+}
+#second-p-post-7{
+    font-family: "Inter", serif;
+    font-size: 15px;
+    font-style: bold;
+    line-height:auto ;
+    color: #555555;
+}
+/*post-7*/
+/*///////////////////////*/
+
+
+ 
+/*///////////////////////*/
+/*div-Conteudo postado*/
+
+
+
+
+
+
+/*///////////////div-clima-regioes//////////////////*/
+#div-clima-regioes {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);  
+    grid-template-rows: repeat(3, 1fr); 
+    grid-gap: 70px;  
+}
+
+#div-clima-regioes > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#div-clima-regioes img {
+    max-width: 100%;  
+    height: auto;
+}
+
+/*///////////////////////*/ 
+/*informações-div-centro*/
+#clima-centro {
+    position: relative;  
+    width: 100%;
+    height: 100%;
+  }
+  
+  #img-centro {
+    width: 100%;
+    height: auto;  
+ 
+    
+  }
+  #inf-img-centro {
+    position: absolute;  
+    z-index: 1;  
+    width: 100%;
+    height: 100%;
+  }
+  #parte-cima-img-centro {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 100%;
+    height: 50%;
+ 
+  }
+  
+  #lado-esquerdo-img-centro{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  #lado-direito-img-centro {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    gap: 10px;
+  }
+  
+  #parte-baixo-img-centro {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   height: 50%;
+ 
+  }
+  #temp-centro{
+    display: flex;
+    gap: 10px;
+    color: #fff;
+    font-size: 24px;
+    font-style: Regular;
+    line-height: auto;
+    font-family: "Roboto",serif;
+  }
+  #h1-img-centro{
+    color: #fff;
+    font-size: 20px;
+    font-style: medium;
+    line-height: auto;
+    font-family: "Roboto",serif;
+  }
+  #p-img-centro{
+    color: #fff;
+    font-size: 12px;
+    font-style: Regular;
+    line-height: 20px;
+    font-family: "Roboto",serif;
+  }
+/*informações-div-centro*/
+ 
+ /*///////////////////////////////////////*/ 
+
+/*informações-div-sudoeste*/
+ #clima-Sudoeste {
+    position: relative;  
+    width: 100%;
+    height: 100%;
+  }
+  
+  #img-Sudoeste {
+    width: 100%;
+    height: auto;  
+ 
+    
+  }
+  #inf-img-Sudoeste {
+    position: absolute;  
+    z-index: 1;  
+    width: 100%;
+    height: 100%;
+  }
+  #parte-cima-img-Sudoeste {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 100%;
+    height: 50%;
+ 
+  }
+  
+  #lado-esquerdo-img-Sudoeste{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  #lado-direito-img-Sudoeste {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    gap: 10px;
+  }
+  
+  #parte-baixo-img-Sudoeste {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   height: 50%;
+ 
+  }
+  #temp-Sudoeste{
+    display: flex;
+    gap: 10px;
+    color: #fff;
+    font-size: 24px;
+    font-style: Regular;
+    line-height: auto;
+    font-family: "Roboto",serif;
+  }
+  #h1-img-Sudoeste{
+    color: #fff;
+    font-size: 20px;
+    font-style: medium;
+    line-height: auto;
+    font-family: "Roboto",serif;
+  }
+  #p-img-Sudoeste{
+    color: #fff;
+    font-size: 12px;
+    font-style: Regular;
+    line-height: 20px;
+    font-family: "Roboto",serif;
+  }
+
+/*informações-div-sudoeste*/
+
+ /*///////////////////////////////////////*/ 
+ 
+/*informações-div-leste*/
+
+#clima-Leste {
+    position: relative;  
+    width: 100%;
+    height: 100%;
+  }
+  
+  #img-Leste {
+    width: 100%;
+    height: auto;  
+ 
+    
+  }
+  #inf-img-Leste {
+    position: absolute;  
+    z-index: 1;  
+    width: 100%;
+    height: 100%;
+  }
+  #parte-cima-img-Leste {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 100%;
+    height: 50%;
+ 
+  }
+  
+  #lado-esquerdo-img-Leste{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  #lado-direito-img-Leste {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    gap: 10px;
+  }
+  
+  #parte-baixo-img-Leste {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   height: 50%;
+ 
+  }
+  #temp-Leste{
+    display: flex;
+    gap: 10px;
+    color: #fff;
+    font-size: 24px;
+    font-style: Regular;
+    line-height: auto;
+    font-family: "Roboto",serif;
+  }
+  #h1-img-Leste{
+    color: #fff;
+    font-size: 20px;
+    font-style: medium;
+    line-height: auto;
+    font-family: "Roboto",serif;
+  }
+  #p-img-Leste{
+    color: #fff;
+    font-size: 12px;
+    font-style: Regular;
+    line-height: 20px;
+    font-family: "Roboto",serif;
+  }
+ 
+ /*informações-div-leste*/
+ 
+ /*///////////////////////////////////////*/ 
+ /*informações-div-Oeste*/
+
+ #clima-Sudoeste {
+  position: relative;  
+  width: 100%;
+  height: 100%;
+}
+
+#img-Sudoeste {
+  width: 100%;
+  height: auto;  
+
+  
+}
+#inf-img-Sudoeste {
+  position: absolute;  
+  z-index: 1;  
+  width: 100%;
+  height: 100%;
+}
+#parte-cima-img-Sudoeste {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 100%;
+  height: 50%;
+
+}
+
+#lado-esquerdo-img-Sudoeste{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#lado-direito-img-Sudoeste {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  gap: 10px;
+}
+
+#parte-baixo-img-Sudoeste {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: 50%;
+
+}
+#temp-Sudoeste{
+  display: flex;
+  gap: 10px;
+  color: #fff;
+  font-size: 24px;
+  font-style: Regular;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#h1-img-Sudoeste{
+  color: #fff;
+  font-size: 20px;
+  font-style: medium;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#p-img-Sudoeste{
+  color: #fff;
+  font-size: 12px;
+  font-style: Regular;
+  line-height: 20px;
+  font-family: "Roboto",serif;
+}
+
+/*informações-div-sudoeste*/
+
+/*///////////////////////////////////////*/ 
+
+/*informações-div-leste*/
+
+#clima-Oeste {
+  position: relative;  
+  width: 100%;
+  height: 100%;
+}
+
+#img-Oeste {
+  width: 100%;
+  height: auto;  
+
+  
+}
+#inf-img-Oeste {
+  position: absolute;  
+  z-index: 1;  
+  width: 100%;
+  height: 100%;
+}
+#parte-cima-img-Oeste {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 100%;
+  height: 50%;
+
+}
+
+#lado-esquerdo-img-Oeste{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#lado-direito-img-Oeste {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  gap: 10px;
+}
+
+#parte-baixo-img-Oeste {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: 50%;
+
+}
+#temp-Oeste{
+  display: flex;
+  gap: 10px;
+  color: #fff;
+  font-size: 24px;
+  font-style: Regular;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#h1-img-Oeste{
+  color: #fff;
+  font-size: 20px;
+  font-style: medium;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#p-img-Oeste{
+  color: #fff;
+  font-size: 12px;
+  font-style: Regular;
+  line-height: 20px;
+  font-family: "Roboto",serif;
+}
+ 
+ /*informações-div-Oeste*/
+ 
+
+
+/*///////////////////////////////////////*/
+
+
+ /*informações-div-Nordeste*/
+#clima-Nordeste {
+  position: relative;  
+  width: 100%;
+  height: 100%;
+}
+
+#img-Nordeste {
+  width: 100%;
+  height: auto;  
+
+  
+}
+#inf-img-Nordeste {
+  position: absolute;  
+  z-index: 1;  
+  width: 100%;
+  height: 100%;
+}
+#parte-cima-img-Nordeste {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 100%;
+  height: 50%;
+
+}
+
+#lado-esquerdo-img-Nordeste{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#lado-direito-img-Nordeste {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  gap: 10px;
+}
+
+#parte-baixo-img-Nordeste {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: 50%;
+
+}
+#temp-Nordeste{
+  display: flex;
+  gap: 10px;
+  color: #fff;
+  font-size: 24px;
+  font-style: Regular;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#h1-img-Nordeste{
+  color: #fff;
+  font-size: 20px;
+  font-style: medium;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#p-img-Nordeste{
+  color: #fff;
+  font-size: 12px;
+  font-style: Regular;
+  line-height: 20px;
+  font-family: "Roboto",serif;
+}
+ /*informações-div-Nordeste*/
+
+
+/*///////////////////////////////////////*/
+
+ /*informações-div-Norte*/
+ 
+ #clima-Norte {
+  position: relative;  
+  width: 100%;
+  height: 100%;
+}
+
+#img-Norte {
+  width: 100%;
+  height: auto;  
+
+  
+}
+#inf-img-Norte {
+  position: absolute;  
+  z-index: 1;  
+  width: 100%;
+  height: 100%;
+}
+#parte-cima-img-Norte {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 100%;
+  height: 50%;
+
+}
+
+#lado-esquerdo-img-Norte{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#lado-direito-img-Norte {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  gap: 10px;
+}
+
+#parte-baixo-img-Norte {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: 50%;
+
+}
+#temp-Norte{
+  display: flex;
+  gap: 10px;
+  color: #fff;
+  font-size: 24px;
+  font-style: Regular;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#h1-img-Norte{
+  color: #fff;
+  font-size: 20px;
+  font-style: medium;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#p-img-Norte{
+  color: #fff;
+  font-size: 12px;
+  font-style: Regular;
+  line-height: 20px;
+  font-family: "Roboto",serif;
+}
+ /*informações-div-Norte*/
+
+/*///////////////////////////////////////*/
+
+
+ /*informações-div-Sul*/
+ 
+ #clima-Sul {
+  position: relative;  
+  width: 100%;
+  height: 100%;
+}
+
+#img-Sul {
+  width: 100%;
+  height: auto;  
+
+  
+}
+#inf-img-Sul {
+  position: absolute;  
+  z-index: 1;  
+  width: 100%;
+  height: 100%;
+}
+#parte-cima-img-Sul {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 100%;
+  height: 50%;
+
+}
+
+#lado-esquerdo-img-Sul{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#lado-direito-img-Sul {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  gap: 10px;
+}
+
+#parte-baixo-img-Sul {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: 50%;
+
+}
+#temp-Sul{
+  display: flex;
+  gap: 10px;
+  color: #fff;
+  font-size: 24px;
+  font-style: Regular;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#h1-img-Sul{
+  color: #fff;
+  font-size: 20px;
+  font-style: medium;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#p-img-Sul{
+  color: #fff;
+  font-size: 12px;
+  font-style: Regular;
+  line-height: 20px;
+  font-family: "Roboto",serif;
+}
+
+
+ /*informações-div-Sul*/
+
+/*///////////////////////////////////////*/
+
+
+
+
+ /*informações-div-Sudeste*/
+
+ #clima-Sudeste {
+  position: relative;  
+  width: 100%;
+  height: 100%;
+}
+
+#img-Sudeste {
+  width: 100%;
+  height: auto;  
+
+  
+}
+#inf-img-Sudeste {
+  position: absolute;  
+  z-index: 1;  
+  width: 100%;
+  height: 100%;
+}
+#parte-cima-img-Sudeste {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 100%;
+  height: 50%;
+
+}
+
+#lado-esquerdo-img-Sudeste{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#lado-direito-img-Sudeste {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  gap: 10px;
+}
+
+#parte-baixo-img-Sudeste {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: 50%;
+
+}
+#temp-Sudeste{
+  display: flex;
+  gap: 10px;
+  color: #fff;
+  font-size: 24px;
+  font-style: Regular;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#h1-img-Sudeste{
+  color: #fff;
+  font-size: 20px;
+  font-style: medium;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#p-img-Sudeste{
+  color: #fff;
+  font-size: 12px;
+  font-style: Regular;
+  line-height: 20px;
+  font-family: "Roboto",serif;
+}
+ 
+ /*informações-div-Sudeste*/
+
+
+/*///////////////////////////////////////*/
+
+
+
+
+ /*informações-div-Noroeste*/
+ 
+ #clima-Noroeste {
+  position: relative;  
+  width: 100%;
+  height: 100%;
+}
+
+#img-Noroeste {
+  width: 100%;
+  height: auto;  
+
+  
+}
+#inf-img-Noroeste {
+  position: absolute;  
+  z-index: 1;  
+  width: 100%;
+  height: 100%;
+}
+#parte-cima-img-Noroeste {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 100%;
+  height: 50%;
+
+}
+
+#lado-esquerdo-img-Noroeste{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#lado-direito-img-Noroeste {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  gap: 10px;
+}
+
+#parte-baixo-img-Noroeste {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+ height: 50%;
+
+}
+#temp-Noroeste{
+  display: flex;
+  gap: 10px;
+  color: #fff;
+  font-size: 24px;
+  font-style: Regular;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#h1-img-Noroeste{
+  color: #fff;
+  font-size: 20px;
+  font-style: medium;
+  line-height: auto;
+  font-family: "Roboto",serif;
+}
+#p-img-Noroeste{
+  color: #fff;
+  font-size: 12px;
+  font-style: Regular;
+  line-height: 20px;
+  font-family: "Roboto",serif;
+}
+
+
+
+ /*informações-div-Noroeste*/
+
+
+/*///////////////////////////////////////*/
+
+
+/*///////////////div-clima-regioes//////////////////*/
+
